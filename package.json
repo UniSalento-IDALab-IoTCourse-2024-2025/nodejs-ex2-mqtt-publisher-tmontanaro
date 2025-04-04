@@ -1,14 +1,14 @@
 {
-  "name": "firstapp",
+  "name": "nodejs-ex2-mqtt-publisher-tmontanaro",
   "version": "1.0.0",
-  "description": "",
   "main": "firstApp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "node-dht-sensor": "^0.4.5"
+    "mqtt": "^5.10.4"
   }
 }
